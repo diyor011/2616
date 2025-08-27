@@ -145,7 +145,7 @@ const Footer = () => {
               <li>Blog</li>
             </ul>
           </div>
-          
+          s
         </div>
         
       </div>
